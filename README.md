@@ -14,7 +14,8 @@ npm install react-use-focus-management
 `useFocusManagement()` takes no arguments and returns an array with two elements:
 
 * A ref. The element this ref is attached to will be the focus target.
-* A function. When called, it will cause the element to gain focus after the next render.
+* A function. When called, it will cause the element to gain focus after the
+next render (as long as the element is actually focusable).
 
 ## Usage
 
