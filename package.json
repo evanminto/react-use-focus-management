@@ -1,6 +1,6 @@
 {
-  "name": "react-use-focus-management",
-  "version": "1.0.0",
+  "name": "@evanminto/react-use-focus-management",
+  "version": "1.0.1",
   "description": "React hook allowing for programmatic control over the currently focused element.",
   "main": "dist/react-use-focus-management.js",
   "module": "dist/react-use-focus-management.module.js",
